@@ -1,9 +1,9 @@
 <h1 align="center">Hi, I'm Vo Hoang Loc</h1>
 <h3 align="center">I'm studying <a href="https://cs.uit.edu.vn/">Computer Science</a> at <a href="https://www.uit.edu.vn/">University of Information Technology</a></h3>
 
-<p align="left"> <a href="https://www.youtube.com/watch?v=XcHtXGiEZ3o" target="_blank"><img src="https://komarev.com/ghpvc/?username=locvh1162&label=Profile%20views&color=0e75b6&style=flat" alt="locvh1162" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=locvh1162&label=Profile%20views&color=0e75b6&style=flat" alt="locvh1162" /> </p>
 
-<img align="right" alt="dogs and cats" width="400" src="https://i.ytimg.com/vi/XcHtXGiEZ3o/maxresdefault.jpg">
+<a href="https://www.youtube.com/watch?v=XcHtXGiEZ3o" target="_blank"><img align="right" alt="dogs and cats" width="400" src="https://i.ytimg.com/vi/XcHtXGiEZ3o/maxresdefault.jpg"></a>
 
 - 👨‍💻 My student ID **20521553**
 
