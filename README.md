@@ -1,4 +1,4 @@
-# Hi, I'm Vo Hoang Loc
+<h1 align="center">Hi, I'm Vo Hoang Loc</h1>
 
 <p align="left"> 
   <img src="https://komarev.com/ghpvc/?username=locvh1162&label=Profile%20views&color=0e75b6&style=flat" alt="locvh1162" />
