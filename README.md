@@ -3,9 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=locvh1162&label=Profile%20views&color=0e75b6&style=flat" alt="locvh1162" /> </p>
 
-- 📫 How to reach me **locvh1162@gmail.com**
-
-- ⚡ Fun fact **I don't know if I like dogs or cats more**
+- 📫 How to reach me **20521553@gm.uit.edu.vn**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
