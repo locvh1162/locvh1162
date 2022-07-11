@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=locvh1162&label=Profile%20views&color=0e75b6&style=flat" alt="locvh1162" /> </p>
 
-- 📫 How to reach me **20521553@gm.uit.edu.vn**
+- 📫 How to reach me **20521553@gm.uit.edu.vn** or **vohoangloc.11.06@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
